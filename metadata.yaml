@@ -1,0 +1,36 @@
+_repo: A-brief-and-remarkable-narrative-of-the-life-and-extreme-sufferings-of-Barnabas-Downs-Jun-b-W__71758
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Downs, Barnabas
+    alias: Downes, Barnabas
+    birthdate: 1757
+    deathdate: 1817
+    gutenberg_agent_id: '56385'
+    url: http://www.gutenberg.org/2009/agents/56385
+description: ''
+gutenberg_issued: '2023-09-29'
+identifiers:
+  gutenberg: '71758'
+language: en
+pgterms:marc905: 20230114082250downs
+pgterms:marc906: '1786'
+pgterms:marc907: US
+production_note: Steve Mattern, David Wilson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aBoston :$bE. Russell, $c1786, copyright 1972.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks'
+- !lcsh 'Downs, Barnabas, 1757-1817'
+- !lcsh 'James Arnold (Ship)'
+- !lcc 'F001'
+- GITenberg
+title: 'A brief and remarkable narrative of the life and extreme sufferings of Barnabas
+  Downs, Jun. : $b Who was among the number of those who escaped death on board the
+  privateer brig Arnold, James Magee, commander, which was cast away near Plymouth-Harbour,
+  in a most terrible snow-storm, December 26, 1778, when more than sixty persons were
+  frozen to death. Containing also a particular account of said shipwreck'
+url: http://www.gutenberg.org/ebooks/71758
